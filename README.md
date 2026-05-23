@@ -1,24 +1,22 @@
 <!-- ==================== HEADER ==================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=180&section=header&text=DevBoard&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=8b5cf6&height=180&section=header&text=◆%20DevBoard%20◆&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlign=50"/>
 
 <div align="center">
-
-# 🚀 DevBoard
 
 ### Plataforma moderna de gerenciamento de tarefas e produtividade
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF914D&center=true&vCenter=true&width=750&lines=Construindo+uma+experi%C3%AAncia+full-stack+moderna;React+%2B+TypeScript+%2B+Supabase;Projeto+voltado+para+arquitetura+e+evolu%C3%A7%C3%A3o+t%C3%A9cnica"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=Construindo+uma+experi%C3%AAncia+full-stack+moderna;React+%2B+TypeScript+%2B+Supabase;Projeto+voltado+para+arquitetura+e+evolu%C3%A7%C3%A3o+t%C3%A9cnica"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-ff914d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-8b5cf6?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FOCO-FULLSTACK-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCO-FULLSTACK-1e1b4b?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/STACK-REACT-61dafb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STACK-REACT-a78bfa?style=for-the-badge"/>
 
 </div>
 
@@ -98,7 +96,7 @@ O projeto simula um ambiente de gerenciamento de tarefas e projetos, explorando 
 
 <div align="center">
 
-### 🟠 Desenvolvimento ativo
+### 🟣 Desenvolvimento ativo
 
 Projeto em evolução contínua com melhorias visuais, novas funcionalidades e aprimoramento técnico.
 
@@ -129,11 +127,11 @@ Front-end Developer em evolução para Full-Stack 🚀
 <br>
 
 <a href="https://portifolio-vanessa-nine.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20Portfólio-ff914d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Portfólio-8b5cf6?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vanessahenker/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4da6ff"/>
+<img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=c4b5fd"/>
 </a>
 
 </div>
@@ -148,4 +146,4 @@ Front-end Developer em evolução para Full-Stack 🚀
 
 <!-- ==================== FOOTER ==================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=8&section=footer"/>
