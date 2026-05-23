@@ -79,15 +79,14 @@ O projeto simula um ambiente de gerenciamento de tarefas e projetos, explorando 
 
 # 📂 Estrutura do Projeto
 
+> ⚠️ Estrutura em desenvolvimento e pode sofrer alterações
+
 ```bash
 📦 devboard
  ┣ 📂 frontend
  ┣ 📂 backend
- ┣ 📂 components
- ┣ 📂 services
- ┣ 📂 pages
- ┣ 📂 sql
- ┗ 📂 assets
+ ┣ 📂 assets
+ ┗ 📄 README.md
 ```
 
 ---
