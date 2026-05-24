@@ -8,7 +8,7 @@
 │   │
 │   ├── 📁 pages/ → telas da aplicação (rotas)
 │   │   ├── 🔒 auth/ → login e cadastro
-│   │   │   └── Login.tsx → tela de login
+│   │   │   └── Login.tsx → tela de logi
 │   │   │
 │   │   ├── 📊 dashboard/ → página principal do sistema
 │   │   │   └── Dashboard.tsx → dashboard
