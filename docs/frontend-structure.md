@@ -1,4 +1,4 @@
--- Active: 1754954648150@@127.0.0.1@3306
+
 🖥️ FRONTEND (DevBoard) → Interface principal da aplicação React
 │
 ├── 📄 public/ → arquivos estáticos públicos
