@@ -1,14 +1,20 @@
-
 🖥️ FRONTEND (DevBoard) → Interface principal da aplicação React
 │
 ├── 📄 public/ → arquivos estáticos públicos
-│   └── index.html → ponto de entrada do HTML
+│   └── favicon.ico → ícone da aplicação
 │
 ├── ⚛️ src/ → código principal da aplicação
 │   │
+│   ├── 🖼️ assets/ → imagens, ícones e arquivos visuais
+│   │   ├── images/
+│   │   │   └── logo-devboard.png
+│   │   │
+│   │   ├── icons/
+│   │   └── illustrations/
+│   │
 │   ├── 📁 pages/ → telas da aplicação (rotas)
 │   │   ├── 🔒 auth/ → login e cadastro
-│   │   │   └── Login.tsx → tela de logi
+│   │   │   └── Login.tsx → tela de login
 │   │   │
 │   │   ├── 📊 dashboard/ → página principal do sistema
 │   │   │   └── Dashboard.tsx → dashboard
@@ -16,28 +22,31 @@
 │   │   └── 📁 projects/ → páginas de projetos
 │   │       └── Projects.tsx → lista/detalhes de projetos
 │   │
-│   ├── 🧩 components/ → componentes reutilizáveis de UI
+│   ├── 🧩 components/ → componentes reutilizáveis da interface
 │   │   ├── ui/ → botões, inputs, cards
-│   │   ├── layout/ → header, sidebar, estrutura base
+│   │   ├── layout/ → header, sidebar e estrutura base
 │   │   └── shared/ → componentes genéricos reutilizáveis
 │   │
-│   ├── ⚙️ features/ → regras de negócio do sistema
+│   ├── ⚙️ features/ → regras de negócio da aplicação
 │   │   ├── tasks/ → lógica de tarefas
 │   │   ├── projects/ → lógica de projetos
 │   │   └── users/ → lógica de usuários
 │   │
-│   ├── 🔌 services/ → comunicação com API (backend/supabase)
+│   ├── 🔌 services/ → comunicação com API/backend
 │   ├── 🪝 hooks/ → hooks personalizados
-│   ├── 🌐 contexts/ → estado global da aplicação
-│   ├── 🧭 routes/ → controle de rotas e proteção de páginas
-│   ├── 🎨 styles/ → estilos globais e variáveis
+│   ├── 🌐 contexts/ → gerenciamento de estado global
+│   ├── 🧭 routes/ → controle e proteção de rotas
+│   ├── 🎨 styles/ → estilos globais, temas e variáveis
 │   ├── 🧰 utils/ → funções auxiliares
-│   ├── 🧾 types/ → tipagens TypeScript globais
+│   ├── 🧾 types/ → tipagens globais do TypeScript
 │   │
 │   ├── App.tsx → componente principal da aplicação
 │   └── main.tsx → ponto de inicialização do React
 │
-├── 📄 index.html → arquivo HTML base (Vite)
+├── 📄 index.html → arquivo HTML base do Vite
 ├── 📄 README.md → documentação do frontend
-├── 📦 package.json → dependências e scripts
+├── 📦 package.json → dependências e scripts do projeto
+├── 📦 package-lock.json → controle de versões das dependências
+├── 📄 tsconfig.json → configuração do TypeScript
+├── 📄 .gitignore → arquivos ignorados pelo Git
 └── ⚙️ vite.config.ts → configuração do Vite
