@@ -20,7 +20,7 @@
 │   │   │   │
 │   │   │   └── sections/ → Seções específicas da tela de autenticação
 │   │   │       ├── LoginForm.tsx → Formulário de login
-│   │   │       ├── LoginBanner.tsx → Banner lateral ou superior
+│   │   │       ├── LoginBanner.tsx → Banner lateral 
 │   │   │       └── SocialLogin.tsx → Login com redes sociais
 │   │   │
 │   │   ├── 📊 dashboard/ → Página principal após autenticação
