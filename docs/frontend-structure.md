@@ -59,6 +59,8 @@
 │   ├── 🧩 components/ → Componentes reutilizáveis em toda a aplicação
 │   │   │
 │   │   ├── ui/ → Componentes básicos da interface
+            LogoDevBoard.tsx - Logo Reutilizael
+            LogoDevBoard.css - estyle
 │   │   │   ├── Button.tsx → Botão reutilizável
 │   │   │   ├── Input.tsx → Campo de entrada reutilizável
 │   │   │   ├── Select.tsx → Campo de seleção reutilizável

@@ -1,5 +1,5 @@
-import logoDevboard from "../../assets/imagens/logo-devboard.png";
-import "./Logo.css";
+import logoDevboard from "../../../assets/imagens/logo-devboard.png";
+import "./LogoDevBoard.css";
 
 function Logo() {
   return (
