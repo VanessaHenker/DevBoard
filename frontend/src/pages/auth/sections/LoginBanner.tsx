@@ -3,7 +3,7 @@ import Logo from "../../../components/AuthBanner/Logo";
 function LoginBanner() {
   return (
     <section className="login-banner">
-      <Logo/>
+      <Logo />
 
       <header className="login-banner__header">
         <h2>DevBoard</h2>

@@ -1,21 +1,15 @@
+import logoDevboard from "../../assets/imagens/logo-devboard.png";
 import "./Logo.css";
-import logoDevboard from "../../assets/logos/logo-devboard.png";
 
-type LogoProps = {
-  size?: number;
-};
-
-function Logo({ size = 48 }: LogoProps) {
+function Logo() {
   return (
-    <img
-      src={logoDevboard}
-      alt="DevBoard"
-      className="logo"
-      style={{
-        width: `${size}px`,
-        height: `${size}px`,
-      }}
-    />
+    <section className="login-banner">
+      <img
+        src={logoDevboard}
+        alt="Logo da plataforma DevBoard"
+        className="login-banner__image"
+      />
+    </section>
   );
 }
 
