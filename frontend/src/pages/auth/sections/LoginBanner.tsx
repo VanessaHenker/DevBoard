@@ -1,13 +1,9 @@
-import logoDevboard from "../../../assets/imagens/logo-devboard.png";
+import Logo from "../../../components/AuthBanner/Logo";
 
 function LoginBanner() {
   return (
     <section className="login-banner">
-      <img
-        src={logoDevboard}
-        alt="Logo da plataforma DevBoard"
-        className="login-banner__image"
-      />
+      <Logo/>
 
       <header className="login-banner__header">
         <h2>DevBoard</h2>
