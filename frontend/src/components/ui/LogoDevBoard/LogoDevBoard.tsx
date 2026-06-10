@@ -1,16 +1,16 @@
 import logoDevboard from "../../../assets/imagens/logo-devboard.png";
 import "./LogoDevBoard.css";
 
-function Logo() {
+function LogoDevBoard() {
   return (
-    <section className="login-banner">
+    <div className="logo-container">
       <img
         src={logoDevboard}
         alt="Logo da plataforma DevBoard"
-        className="login-banner__image"
+        className="logo"
       />
-    </section>
+    </div>
   );
 }
 
-export default Logo;
+export default LogoDevBoard;
